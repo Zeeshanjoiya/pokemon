@@ -1,0 +1,13 @@
+[06-Apr-2023 11:16:56 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[06-Apr-2023 11:16:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/admin/public_html/ebay.smarttechnologyhouse.net/core/vendor/composer/platform_check.php on line 24
+[06-Apr-2023 11:31:44 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[06-Apr-2023 11:31:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/admin/public_html/ebay.smarttechnologyhouse.net/core/vendor/composer/platform_check.php on line 24
+[06-Apr-2023 11:32:14 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[06-Apr-2023 11:32:14 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/admin/public_html/ebay.smarttechnologyhouse.net/core/vendor/composer/platform_check.php on line 24
+[06-Apr-2023 11:32:56 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[06-Apr-2023 11:32:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/admin/public_html/ebay.smarttechnologyhouse.net/core/vendor/composer/platform_check.php on line 24
+[06-Apr-2023 11:35:01 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[06-Apr-2023 11:35:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/admin/public_html/ebay.smarttechnologyhouse.net/core/vendor/composer/platform_check.php on line 24
+[06-Apr-2023 11:39:37 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[06-Apr-2023 11:39:37 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/admin/public_html/ebay.smarttechnologyhouse.net/core/vendor/composer/platform_check.php on line 24
+[06-Apr-2023 11:39:43 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
